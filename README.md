@@ -2,8 +2,8 @@
 
 Это тестовое задание для Yamaguchi
 Поставленные задачи:
-- Сверстать по макету из [Figma](https://neekit95.github.io/Calculator/)
-- 
+- Сверстать по макету из [Figma](https://www.figma.com/file/jAfRB76D6Y69PjuuUHW41H/Тестовое-задание-для-верстальщика.?node-id=0%3A1&t=JLhJmTxvAPzmHhfI-0)
+- Создать анимацию поднятия стола при нажатии на кнопку
 
 
 - Вы можете протестировать его здесь: [Test](https://neekit95.github.io/Yamaguchi_test1/)
