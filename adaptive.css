@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Bebas Neue";
+    src: local("Bebas Neue");
+}
+@media only screen and (max-width:1200px) {
+    /* .container {
+        max-width:80%;
+    } */
+
+    
+}
+
+@media only screen and (max-width:992px) {
+
+}
+
+@media only screen and (max-width:768px) {
+
+}
+
+@media only screen and (max-width:480px) {
+
+}
+
+@media only screen and (max-width:320px) {
+    h1 {
+
+        position: absolute;
+        width: 309.74px;
+        height: 218.63px;
+    
+        font-family: 'Bebas Neue';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 38px;
+        line-height: 100%;
+        /* or 38px */
+    
+        color: #0B64FE;
+        }
+}
+
+
