@@ -2,7 +2,7 @@
 
 Это тестовое задание для Yamaguchi
 Поставленные задачи:
-- Сверстать по макету из [Figma] (https://neekit95.github.io/Calculator/)
+- Сверстать по макету из [Figma](https://neekit95.github.io/Calculator/)
 - 
 
 
